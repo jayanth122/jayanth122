@@ -5,7 +5,7 @@
 currently pursuing B.Tech in CSE(Spec. in Networks and Security)
 
 - 🔭 I generally look into developing softwares and web applications.
-- 🤷 I guess I like to stay hydrated!
+- 🤷 I guess I like to stay invisible!
 - 🥅 Goals: Live for the moment
 - ⚡ Fun fact: I'm a fitness freak!
 
