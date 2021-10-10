@@ -40,18 +40,7 @@
 <br/>
 
 <a href="https://github.com/jayanth122/github-readme-activity-graph"><img alt="Jayanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayanth122&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-#### Top Repositories
 
-
-<a href="https://github.com/jayanth122/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayanth122&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/jayanth122/jayanth122.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayanth122&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
 
 ## Connect with me:
 <p align="left">
