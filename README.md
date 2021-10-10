@@ -8,10 +8,10 @@
 - 🔭 I generally look into building softwares and web applications.
 - 🤷 I guess I like to stay active.
 - 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm a fitness freak!
 
 <p align="center">
-    <a href="https://github.com/CharanRayudu/github-readme-streak-stats">
+    <a href="https://github.com/jayanth122/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayanth122&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -24,7 +24,13 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+**Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br/>
 <br/>
 
