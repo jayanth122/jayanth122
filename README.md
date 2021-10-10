@@ -4,9 +4,9 @@
 ## I'm a Student, 
 currently pursuing B.Tech in CSE(Spec. in Networks and Security)
 
-- 🔭 I generally look into building softwares and web applications.
-- 🤷 I guess I like to stay active.
-- 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career
+- 🔭 I generally look into developing softwares and web applications.
+- 🤷 I guess I like to stay hydrated!
+- 🥅 Goals: Live for the moment
 - ⚡ Fun fact: I'm a fitness freak!
 
 <p align="center">
