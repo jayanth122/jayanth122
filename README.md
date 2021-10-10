@@ -39,9 +39,3 @@
 <a href = "https://www.instagram.com/jayanth_chennupati/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/jayanth122/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jayanth122&style=flat-square">
-</a>
-<a href="https://github.com/jayanth122?tab=followers"><img src="https://img.shields.io/github/followers/jayanth122?label=Followers&style=social" alt="GitHub Badge"></a>
