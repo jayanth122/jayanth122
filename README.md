@@ -2,7 +2,7 @@
 
 
 ## I'm a Student 
-###currently pursuing B.Tech in CSE(Spec. in Networks and Security)
+Currently pursuing B.Tech in CSE(Spec. in Networks and Security)
 
 - 🔭 I generally look into developing softwares and web applications.
 - 🤷 I guess I like to stay invisible!
