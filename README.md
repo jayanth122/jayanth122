@@ -1,8 +1,8 @@
 # Hi there, I'm Jayanth Chennupati <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## I'm a Student, 
-currently pursuing B.Tech in CSE(Spec. in Networks and Security)
+## I'm a Student 
+###currently pursuing B.Tech in CSE(Spec. in Networks and Security)
 
 - 🔭 I generally look into developing softwares and web applications.
 - 🤷 I guess I like to stay invisible!
