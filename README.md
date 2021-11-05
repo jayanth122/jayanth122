@@ -4,7 +4,7 @@
 ## I'm a Student 
 Currently pursuing B.Tech in CSE(Spec. in Networks and Security)
 
-- 🔭 I generally look into developing softwares and web applications.
+- 🔭I usually do software and web application development.
 - 🤷 I guess I like to stay invisible!
 - 🥅 Goals: Live for the moment
 - ⚡ Fun fact: I'm a fitness freak!
