@@ -1,7 +1,7 @@
 #  Hi there, I'm Jayanth Chennupati <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
 
-## I'm a Student 
+## Student 
 Currently pursuing Masters at the University of Waterloo!
 
 - 🔭I usually do software and web application development.
