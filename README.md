@@ -39,8 +39,6 @@ Currently pursuing Masters at the University of Waterloo!
 <br/>
 <br/>
 
-<a href="https://github.com/jayanth122/github-readme-activity-graph"><img alt="Jayanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayanth122&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 
 ## Connect with me:
 <p align="left">
