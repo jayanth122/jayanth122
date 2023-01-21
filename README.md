@@ -2,7 +2,7 @@
 
 
 ## I'm a Student 
-Currently pursuing B.Tech in CSE(Spec. in Networks and Security)
+Currently pursuing Masters at the University of Waterloo!
 
 - 🔭I usually do software and web application development.
 - 🤷 I guess I like to stay invisible!
