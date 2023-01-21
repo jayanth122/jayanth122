@@ -46,7 +46,7 @@ Currently pursuing Masters at the University of Waterloo!
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/naga-jayanth-chennupati-146296169/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/JChenupati"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/JChennupati"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/jayanth_chennupati/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
