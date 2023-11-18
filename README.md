@@ -24,6 +24,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://portswigger.net/burp/pro" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/burp-suite.png"/></a>  
+    <a href ="https://kubernetes.io/"><img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></a>
+    <a href ="https://www.docker.com/"><img src="https://github.com/docker-library/docs/blob/master/docker/logo.png"></a>
 </p>
 
 ## 📊 My Github Stats
