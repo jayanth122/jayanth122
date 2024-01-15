@@ -1,7 +1,7 @@
 #  Hi there, I'm Jayanth Chennupati <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
 
-## Full Stack Developer at Ai Focal
+## Grad Student at the University of Waterloo
 
 - 🔭I usually do software and web application development.
 - 🤷 I guess I like to stay invisible!
