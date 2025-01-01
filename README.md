@@ -15,7 +15,6 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
     </a>
-    <!-- CSS3 -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
     </a>
