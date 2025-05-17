@@ -1,8 +1,5 @@
 #  Hi , I'm Jayanth <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
-
-## Grad Student at the University of Waterloo
-
 - 🔭I usually do software and web application development.
 - 🤷 I guess I like to stay invisible!
 - 🥅 Goals: Live for the moment
